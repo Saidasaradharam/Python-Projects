@@ -1,0 +1,10 @@
+Animal : elephant
+Movie : premam
+Insect : spider
+Food : biriyani
+Fruit : pineapple
+Social media: Instagram
+Dress : shirt
+Country : Australia
+Colour : black
+Vegetable : drumstick
